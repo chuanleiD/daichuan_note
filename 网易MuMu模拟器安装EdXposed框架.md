@@ -1,5 +1,7 @@
 ## 网易MuMu模拟器安装 $EdXposed$ 框架
-
+参考：B站：Android玩机爱好者
+https://www.bilibili.com/read/cv15996085?spm_id_from=333.999.0.0
+https://www.bilibili.com/read/cv16409781?spm_id_from=333.999.0.0
 
 
 
